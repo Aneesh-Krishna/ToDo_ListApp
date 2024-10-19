@@ -1,0 +1,10 @@
+C:\Users\aneea\source\repos\ToDoList App\ToDoList App\bin\Debug\ToDoList App.exe.config
+C:\Users\aneea\source\repos\ToDoList App\ToDoList App\bin\Debug\ToDoList App.exe
+C:\Users\aneea\source\repos\ToDoList App\ToDoList App\bin\Debug\ToDoList App.pdb
+C:\Users\aneea\source\repos\ToDoList App\ToDoList App\obj\Debug\ToDoList App.csproj.AssemblyReference.cache
+C:\Users\aneea\source\repos\ToDoList App\ToDoList App\obj\Debug\ToDoList_App.ToDoList.resources
+C:\Users\aneea\source\repos\ToDoList App\ToDoList App\obj\Debug\ToDoList_App.Properties.Resources.resources
+C:\Users\aneea\source\repos\ToDoList App\ToDoList App\obj\Debug\ToDoList App.csproj.GenerateResource.cache
+C:\Users\aneea\source\repos\ToDoList App\ToDoList App\obj\Debug\ToDoList App.csproj.CoreCompileInputs.cache
+C:\Users\aneea\source\repos\ToDoList App\ToDoList App\obj\Debug\ToDoList App.exe
+C:\Users\aneea\source\repos\ToDoList App\ToDoList App\obj\Debug\ToDoList App.pdb
